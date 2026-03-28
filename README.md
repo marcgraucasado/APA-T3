@@ -1,16 +1,8 @@
 # Tercera tarea de APA: Multiplicación de vectores y ortogonalidad
 
-## Autor:
-
-> Marc Grau Casado
+## Autor: Marc Grau Casado
 
 ## Aviso importante
-
-> [!Caution]
->
-> El objetivo de esta tarea es programar en Python usando el paradigma de la programación orientada a objetos. La implementación ha sido realizada sin emplear bibliotecas externas que resuelvan directamente los apartados del enunciado.
-
-## Fecha de entrega: 6 de abril a medianoche
 
 ## Clase Vector e implementación de la multiplicación de vectores
 
