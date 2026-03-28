@@ -22,6 +22,8 @@ Inserte a continuación una captura de pantalla que muestre el resultado de ejec
 
 ![Ejecución de los tests unitarios](tests_vectores.png)
 
+Además de la ejecución de los tests unitarios, a continuación se muestran algunos ejemplos de uso del módulo, comprobando la multiplicación por escalar, el producto de Hadamard, el producto escalar y la obtención de las componentes paralela y perpendicular de un vector respecto a otro.
+
 ![Ejemplos de uso del módulo vectores](ejemplos_vectores.png)
 
 ### Código desarrollado
