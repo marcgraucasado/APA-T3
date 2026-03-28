@@ -2,8 +2,6 @@
 
 ## Autor: Marc Grau Casado
 
-## Aviso importante
-
 ## Clase Vector e implementación de la multiplicación de vectores
 
 En esta práctica se ha trabajado sobre el fichero `algebra/vectores.py`, ampliando la clase `Vector` proporcionada en clase con los métodos necesarios para implementar la multiplicación de vectores y la descomposición de un vector en sus componentes paralela y perpendicular respecto a otro.
