@@ -22,6 +22,8 @@ Inserte a continuación una captura de pantalla que muestre el resultado de ejec
 
 ![Ejecución de los tests unitarios](tests_vectores.png)
 
+![Ejemplos de uso del módulo vectores](ejemplos_vectores.png)
+
 ### Código desarrollado
 
 Inserte a continuación el código de los métodos desarrollados en esta tarea, usando los comandos necesarios para que se realice el realce sintáctico en Python del mismo.
