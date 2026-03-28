@@ -101,3 +101,6 @@ def __mod__(self, otro):
         Vector: Componente perpendicular.
     """
     return self - (self // otro)
+```
+De este modo, la clase `Vector` queda ampliada con las operaciones pedidas en el enunciado, mostrando un funcionamiento correcto tanto en los tests unitarios como en los ejemplos prácticos incluidos en esta entrega.
+
