@@ -1,10 +1,7 @@
 # Tercera tarea de APA: Multiplicación de vectores y ortogonalidad
 
-## Nom i cognoms
+## Autor:
 
-> [!Important]
-> Introduzca a continuación su nombre y apellidos:
->
 > Marc Grau Casado
 
 ## Aviso importante
