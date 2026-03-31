@@ -1,4 +1,4 @@
-# Tercera tarea de APA: Multiplicación de vectores y ortogonalidad
+# Tercera tarea de APA: multiplicación de vectores y ortogonalidad
 
 ## Autor: Marc Grau Casado
 
