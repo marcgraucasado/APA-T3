@@ -18,9 +18,6 @@ Los métodos desarrollados han sido los siguientes:
 
 ### Ejecución de los tests unitarios
 
-Inserte a continuación una captura de pantalla que muestre el resultado de ejecutar el fichero `algebra/vectores.py` con la opción *verbosa*, de manera que se muestre el resultado de la ejecución de los tests unitarios.
-
-
 ![Ejecución de los tests unitarios](algebra/tests_vectores.png)
 
 Además de la ejecución de los tests unitarios, a continuación se muestran algunos ejemplos de uso del módulo, comprobando la multiplicación por escalar, el producto de Hadamard, el producto escalar y la obtención de las componentes paralela y perpendicular de un vector respecto a otro.
