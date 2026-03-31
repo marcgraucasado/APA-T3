@@ -25,7 +25,7 @@ Además de la ejecución de los tests unitarios, a continuación se muestran alg
 
 ### Código desarrollado
 
-Inserte a continuación el código de los métodos desarrollados en esta tarea, usando los comandos necesarios para que se realice el realce sintáctico en Python del mismo.
+Código de los métodos desarrollados en esta tarea, usando los comandos necesarios para que se realice el realce sintáctico en Python del mismo.
 
 ```python
 def __mul__(self, otro):
